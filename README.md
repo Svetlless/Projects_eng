@@ -15,6 +15,7 @@ Here are some examples of the non-commercial projects I completed using Python:
     Edtech_Project: analysis of students behaviour on an EdTech platform
 
     Product_metrics_calculation: calculation of several product metrics
-    (MAU, installs, conversion to purchase for cohorts, effectiveness of marketing channels (ROMI, convertion to the first purchase, number of users)
+    (MAU, installs, conversion to purchase for cohorts,
+    effectiveness of marketing channels (ROMI, convertion to the first purchase, number of users)
 
     RFM_clustering: calculation of RFM clusters
