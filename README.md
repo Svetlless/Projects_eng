@@ -1,4 +1,4 @@
-Here are some examples of the non-commercial projects I completed using Python:
+#### A brief description of non-commercial projects I completed using Python:
 
     ABtest_price_change: Analysis of the A/A and A/B tests results for a dating app
     (change in the premium subscription price)
@@ -20,3 +20,27 @@ Here are some examples of the non-commercial projects I completed using Python:
     effectiveness of marketing channels (ROMI, convertion to the first purchase, number of users)
     ------------------------------------------------------------------------------------------------
     RFM_clustering: calculation of RFM clusters
+
+#### Libraries Used
+
+**Data Manipulation**
+- Pandas
+- NumPy
+
+**Data Visualization**
+- Matplotlib
+- Seaborn
+
+**Statistics and Data Analysis**
+- Scipy
+- Pingouin
+
+**Working with HTTP Requests**
+- Requests
+- Urllib
+
+**Text Processing**
+- re
+
+**Working with Databases**
+- sqlite3
