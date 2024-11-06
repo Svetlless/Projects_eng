@@ -1,19 +1,19 @@
 Here are some examples of the non-commercial projects I completed using Python:
 
-    ABtest_price_change: join, CTE, subqueries, aggregate functions  (Clickhouse)
+    ABtest_price_change
     
-    API_parsing: window functions, aggregate functions (Clickhouse)
+    API_parsing
 
-    Dating_app: join, subqueries, aggregate functions  (Clickhouse)
+    Dating_app
     
-    Delivery_app: window functions, CTE, conditional expressions, aggregate functions (PostgreSQL)
+    Delivery_app
     
-    Duplicates_search: aggregate functions, CTE, window functions (Clickhouse)
+    Duplicates_search
 
-    Edtech_Project: aggregate functions, CTE, window functions (Clickhouse)
+    Edtech_Project
 
-    Duplicates_search: aggregate functions, CTE, window functions (Clickhouse)
+    Duplicates_search
 
-    Product_metrics_calculation: aggregate functions, CTE, window functions (Clickhouse)
+    Product_metrics_calculation
 
-    RFM_clustering: aggregate functions, CTE, window functions (Clickhouse)
+    RFM_clustering
