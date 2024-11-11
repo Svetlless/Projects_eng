@@ -21,6 +21,9 @@
     Edtech_Project: analysis of students behaviour on an EdTech platform
     ________________________________________________________________________________________________
     
+    Pattern_extraction: using regular expressions and string operations to extract the information
+    ________________________________________________________________________________________________
+    
     Product_metrics_calculation: calculation of several product metrics
     (MAU, installs, conversion to purchase for cohorts,
     effectiveness of marketing channels (ROMI, convertion to the first purchase, number of users)
